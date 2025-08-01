@@ -52,25 +52,6 @@ Text data is everywhere, but extracting sentiment is hard.
 - 🛠️ **Extensible Design** – swap any component  
 - 🖥️ **Cross-Platform** – Windows, macOS, Linux compatible
 
----
-
-## ⚡ Quick Start
-
-### 📥 Installation (Python 3.8+)
-
-```bash
-git clone https://github.com/yourusername/sentiment-lab.git
-cd sentiment-lab
-pip install -r requirements.txt
-````
-
-### 📓 Run the Notebook
-
-Launch the demo notebook:
-
-```bash
-jupyter notebook SentimentLab_Demo.ipynb
-```
 
 ### 🚀 Minimal Example
 
@@ -263,7 +244,6 @@ We welcome PRs and ideas from the community!
 4. Add/modify code with tests
 5. Submit a pull request
 
-Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
@@ -278,7 +258,7 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 
 ## 👨‍💻 Author
 
-Hi, I’m **\[Afolabi Olawale]** — a passionate software engineer and data scientist focused on building practical, scalable solutions for real-world problems. I created **Sentiment Lab** to bridge the gap between academic NLP and production-grade tools.
+Hi, I’m **Afolabi Olawale** — a passionate ML/AI engineer and data scientist focused on building practical, scalable solutions for real-world problems. I created **Sentiment Lab** to bridge the gap between academic NLP and production-grade tools.
 
 > *“Great software is built by teams who care about both code and people.”*
 
